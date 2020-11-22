@@ -1,1 +1,9 @@
+Node ID: 0da7b288b94a9251
 
+Node name: BLOCKWISE-testnode-01
+Start date: 06-Oct-2020
+Log export: 15-NOV-2020
+Notes: The Node has been running nonstop for the whole period (more than 30 days). 
+I this period we had a local network outage and the node lost internet connecivity. 
+When the internet connection was reestablished, the node reconnected to the Concordium peers and completed a catchup.
+Due to this, the uptime on the Concordium Dashboard was reset and did not show the full uptime

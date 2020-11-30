@@ -1,1 +1,536 @@
+Submitted after the deadline for knowledge shareing.
+----------------------------------------------------------
 
+(B6) Memory and persistent storage #33 
+Node name: BLOCKWISE-testnode-01
+Node ID: b033f23341c02df0
+
+20/10 Node has been running for 14 days
+memory: 16,2MB
+
+dir /a-D /S C:\Users\kim\AppData\Local\concordium
+
+C:\Users\kim\AppData\Local\concordium>dir /a-D /S
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+06-10-2020  22:30               693 baker-credentials.json
+06-10-2020  22:30       374.686.849 blocks_to_import.dat
+06-10-2020  22:30            20.480 data.mdb
+20-10-2020  16:17            63.484 genesis.dat
+20-10-2020  11:27             8.192 lock.mdb
+06-10-2020  22:30               122 node-dashboard-config.json
+               6 File(s)    374.779.820 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+20-10-2020  11:45       131.713.321 blockstate.dat
+               1 File(s)    131.713.321 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+20-10-2020  11:45       180.195.328 data.mdb
+20-10-2020  15:41             8.192 lock.mdb
+               2 File(s)    180.203.520 bytes
+
+     Total Files Listed:
+               9 File(s)    686.696.661 bytes
+			   
+------------------------------------------------------------------------------------
+21/10 chain length: 125215
+
+memory: 
+
+Directory of C:\Users\kim\AppData\Local\concordium
+
+06-10-2020  22:30               693 baker-credentials.json
+06-10-2020  22:30       374.686.849 blocks_to_import.dat
+06-10-2020  22:30            20.480 data.mdb
+20-10-2020  16:17            63.484 genesis.dat
+20-10-2020  11:27             8.192 lock.mdb
+06-10-2020  22:30               122 node-dashboard-config.json
+               6 File(s)    374.779.820 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+20-10-2020  11:45       131.713.321 blockstate.dat
+               1 File(s)    131.713.321 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+20-10-2020  11:45       180.195.328 data.mdb
+20-10-2020  15:41             8.192 lock.mdb
+               2 File(s)    180.203.520 bytes
+
+     Total Files Listed:
+               9 File(s)    686.696.661 bytes
+               0 Dir(s)  53.117.231.104 bytes free
+			   
+------------------------------------------------------------------------------------
+
+22/10 16,2 mb
+
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+06-10-2020  22:30               693 baker-credentials.json
+06-10-2020  22:30       374.686.849 blocks_to_import.dat
+20-10-2020  16:17            28.672 data.mdb
+20-10-2020  16:17            63.484 genesis.dat
+22-10-2020  14:09             8.192 lock.mdb
+06-10-2020  22:30               122 node-dashboard-config.json
+               6 File(s)    374.788.012 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+22-10-2020  15:35       153.718.333 blockstate.dat
+               1 File(s)    153.718.333 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+22-10-2020  15:35       208.142.336 data.mdb
+22-10-2020  15:42             8.192 lock.mdb
+               2 File(s)    208.150.528 bytes
+
+     Total Files Listed:
+               9 File(s)    736.656.873 bytes
+               0 Dir(s)  51.005.710.336 bytes free
+------------------------------------------------------------------------------------
+25/10
+
+memory: 16,2 mb
+
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+06-10-2020  21:30               693 baker-credentials.json
+06-10-2020  21:30       374.686.849 blocks_to_import.dat
+20-10-2020  15:17            28.672 data.mdb
+20-10-2020  15:17            63.484 genesis.dat
+22-10-2020  13:09             8.192 lock.mdb
+06-10-2020  21:30               122 node-dashboard-config.json
+               6 File(s)    374.788.012 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+22-10-2020  14:35       153.718.333 blockstate.dat
+               1 File(s)    153.718.333 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+22-10-2020  14:35       208.142.336 data.mdb
+22-10-2020  14:42             8.192 lock.mdb
+               2 File(s)    208.150.528 bytes
+
+     Total Files Listed:
+               9 File(s)    736.656.873 bytes
+               0 Dir(s)  49.959.763.968 bytes free			   
+
+------------------------------------------------------------------------------------
+26/10
+
+memory: 16.2mb
+			   
+			   
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+06-10-2020  21:30               693 baker-credentials.json
+06-10-2020  21:30       374.686.849 blocks_to_import.dat
+20-10-2020  15:17            28.672 data.mdb
+20-10-2020  15:17            63.484 genesis.dat
+22-10-2020  13:09             8.192 lock.mdb
+06-10-2020  21:30               122 node-dashboard-config.json
+               6 File(s)    374.788.012 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+22-10-2020  14:35       153.718.333 blockstate.dat
+               1 File(s)    153.718.333 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+22-10-2020  14:35       208.142.336 data.mdb
+22-10-2020  14:42             8.192 lock.mdb
+               2 File(s)    208.150.528 bytes
+
+     Total Files Listed:
+               9 File(s)    736.656.873 bytes
+               0 Dir(s)  51.625.050.112 bytes free
+			   
+------------------------------------------------------------------------------------
+
+28/10 
+memory : 16,2mb
+chainlength: 184000			   
+			   
+
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+06-10-2020  21:30               693 baker-credentials.json
+06-10-2020  21:30       374.686.849 blocks_to_import.dat
+20-10-2020  15:17            28.672 data.mdb
+20-10-2020  15:17            63.484 genesis.dat
+22-10-2020  13:09             8.192 lock.mdb
+06-10-2020  21:30               122 node-dashboard-config.json
+               6 File(s)    374.788.012 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+22-10-2020  14:35       153.718.333 blockstate.dat
+               1 File(s)    153.718.333 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+22-10-2020  14:35       208.142.336 data.mdb
+22-10-2020  14:42             8.192 lock.mdb
+               2 File(s)    208.150.528 bytes
+
+     Total Files Listed:
+               9 File(s)    736.656.873 bytes
+               0 Dir(s)  52.472.868.864 bytes free			   
+			   
+------------------------------------------------------------------------------------
+29/10
+memory: 16,2
+chainlength: 192492
+
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+06-10-2020  21:30               693 baker-credentials.json
+06-10-2020  21:30       374.686.849 blocks_to_import.dat
+20-10-2020  15:17            28.672 data.mdb
+20-10-2020  15:17            63.484 genesis.dat
+22-10-2020  13:09             8.192 lock.mdb
+06-10-2020  21:30               122 node-dashboard-config.json
+               6 File(s)    374.788.012 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+22-10-2020  14:35       153.718.333 blockstate.dat
+               1 File(s)    153.718.333 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+22-10-2020  14:35       208.142.336 data.mdb
+22-10-2020  14:42             8.192 lock.mdb
+               2 File(s)    208.150.528 bytes
+
+     Total Files Listed:
+               9 File(s)    736.656.873 bytes
+               0 Dir(s)  52.397.977.600 bytes free		
+
+------------------------------------------------------------------------------------
+30/10
+memory 16,2
+chainlength: 195392
+
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+06-10-2020  21:30               693 baker-credentials.json
+06-10-2020  21:30       374.686.849 blocks_to_import.dat
+20-10-2020  15:17            28.672 data.mdb
+20-10-2020  15:17            63.484 genesis.dat
+22-10-2020  13:09             8.192 lock.mdb
+06-10-2020  21:30               122 node-dashboard-config.json
+               6 File(s)    374.788.012 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+22-10-2020  14:35       153.718.333 blockstate.dat
+               1 File(s)    153.718.333 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+22-10-2020  14:35       208.142.336 data.mdb
+22-10-2020  14:42             8.192 lock.mdb
+               2 File(s)    208.150.528 bytes
+
+     Total Files Listed:
+               9 File(s)    736.656.873 bytes
+               0 Dir(s)  52.268.974.080 bytes free
+			   
+------------------------------------------------------------------------------------
+
+31/10
+memory: 16,2mb
+chainlength: 208840
+
+
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+06-10-2020  21:30               693 baker-credentials.json
+06-10-2020  21:30       374.686.849 blocks_to_import.dat
+20-10-2020  15:17            28.672 data.mdb
+20-10-2020  15:17            63.484 genesis.dat
+22-10-2020  13:09             8.192 lock.mdb
+06-10-2020  21:30               122 node-dashboard-config.json
+               6 File(s)    374.788.012 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+22-10-2020  14:35       153.718.333 blockstate.dat
+               1 File(s)    153.718.333 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+22-10-2020  14:35       208.142.336 data.mdb
+22-10-2020  14:42             8.192 lock.mdb
+               2 File(s)    208.150.528 bytes
+
+     Total Files Listed:
+               9 File(s)    736.656.873 bytes
+               0 Dir(s)  50.838.945.792 bytes free			   
+
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+Node name: BLOCKWISE-testnode-03
+Node ID: b033f23341c02df0
+
+This node has been restarted several times every day (B3)
+
+
+21/10 chain length: 125215
+		
+memory: 
+		
+C:\Users\kim\AppData\Local\concordium>dir /a-D /S
+ Volume in drive C is Windows
+ Volume Serial Number is AC28-396A
+
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+07-10-2020  07:01               693 baker-credentials.json
+21-10-2020  22:11        80.252.133 blocks_to_import.dat
+21-10-2020  22:11            32.768 data.mdb
+21-10-2020  22:11            63.484 genesis.dat
+21-10-2020  22:20             8.192 lock.mdb
+21-10-2020  22:11               122 node-dashboard-config.json
+               6 File(s)     80.357.392 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+21-10-2020  22:19       146.382.283 blockstate.dat
+               1 File(s)    146.382.283 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+21-10-2020  22:19       208.674.816 data.mdb
+21-10-2020  22:20             8.192 lock.mdb
+               2 File(s)    208.683.008 bytes
+
+     Total Files Listed:
+               9 File(s)    435.422.683 bytes
+               0 Dir(s)  634.897.039.360 bytes free
+
+------------------------------------------------------------------------------------
+
+memory 20,9 (just after restart)
+
+
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+07-10-2020  07:01               693 baker-credentials.json
+22-10-2020  21:51        86.049.047 blocks_to_import.dat
+21-10-2020  22:11            32.768 data.mdb
+22-10-2020  21:51            63.484 genesis.dat
+21-10-2020  22:20             8.192 lock.mdb
+22-10-2020  21:51               122 node-dashboard-config.json
+               6 File(s)     86.154.306 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+21-10-2020  22:19       146.382.283 blockstate.dat
+               1 File(s)    146.382.283 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+21-10-2020  22:19       208.674.816 data.mdb
+21-10-2020  22:20             8.192 lock.mdb
+               2 File(s)    208.683.008 bytes
+
+     Total Files Listed:
+               9 File(s)    441.219.597 bytes
+               0 Dir(s)  633.784.418.304 bytes free
+
+------------------------------------------------------------------------------------
+25/10
+memory: 25,9mb
+
+Directory of C:\Users\kim\AppData\Local\concordium
+
+07-10-2020  06:01               693 baker-credentials.json
+25-10-2020  19:18       102.789.245 blocks_to_import.dat
+22-10-2020  20:51            32.768 data.mdb
+25-10-2020  19:18            63.484 genesis.dat
+23-10-2020  06:43             8.192 lock.mdb
+25-10-2020  19:18               122 node-dashboard-config.json
+               6 File(s)    102.894.504 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+23-10-2020  00:04       156.670.085 blockstate.dat
+               1 File(s)    156.670.085 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+23-10-2020  00:04       222.646.272 data.mdb
+23-10-2020  00:04             8.192 lock.mdb
+               2 File(s)    222.654.464 bytes
+
+     Total Files Listed:
+               9 File(s)    482.219.053 bytes
+               0 Dir(s)  636.631.666.688 bytes free
+
+------------------------------------------------------------------------------------
+26/10
+
+memory: 17.2mb
+
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+07-10-2020  06:01               693 baker-credentials.json
+26-10-2020  21:53       108.477.093 blocks_to_import.dat
+25-10-2020  19:18            32.768 data.mdb
+26-10-2020  21:53            63.484 genesis.dat
+26-10-2020  08:23             8.192 lock.mdb
+26-10-2020  21:53               122 node-dashboard-config.json
+               6 File(s)    108.582.352 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+26-10-2020  08:23       192.102.171 blockstate.dat
+               1 File(s)    192.102.171 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+26-10-2020  08:23       270.172.160 data.mdb
+26-10-2020  08:23             8.192 lock.mdb
+               2 File(s)    270.180.352 bytes
+
+     Total Files Listed:
+               9 File(s)    570.864.875 bytes
+               0 Dir(s)  638.065.000.448 bytes free
+
+------------------------------------------------------------------------------------
+
+28/10
+
+memory: 27,9 (just after restart)
+21.0 mb (one hour after restart)
+chainlength: 175000
+
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+07-10-2020  06:01               693 baker-credentials.json
+28-10-2020  21:29       119.432.462 blocks_to_import.dat
+26-10-2020  21:53            32.768 data.mdb
+28-10-2020  21:29            63.484 genesis.dat
+27-10-2020  07:41             8.192 lock.mdb
+28-10-2020  21:29               122 node-dashboard-config.json
+               6 File(s)    119.537.721 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+27-10-2020  07:40       201.700.132 blockstate.dat
+               1 File(s)    201.700.132 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+27-10-2020  07:40       283.619.328 data.mdb
+27-10-2020  07:41             8.192 lock.mdb
+               2 File(s)    283.627.520 bytes
+
+     Total Files Listed:
+               9 File(s)    604.865.373 bytes
+               0 Dir(s)  636.192.174.080 bytes free
+
+------------------------------------------------------------------------------------
+
+29/10
+memory: 20,2mb
+chainlength: 192476
+
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+07-10-2020  06:01               693 baker-credentials.json
+29-10-2020  19:44       126.154.833 blocks_to_import.dat
+28-10-2020  21:29            32.768 data.mdb
+29-10-2020  19:44            63.484 genesis.dat
+28-10-2020  21:57             8.192 lock.mdb
+29-10-2020  19:44               122 node-dashboard-config.json
+               6 File(s)    126.260.092 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+28-10-2020  21:51       213.568.419 blockstate.dat
+               1 File(s)    213.568.419 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+28-10-2020  21:51       300.052.480 data.mdb
+28-10-2020  21:52             8.192 lock.mdb
+               2 File(s)    300.060.672 bytes
+
+     Total Files Listed:
+               9 File(s)    639.889.183 bytes
+               0 Dir(s)  643.803.537.408 bytes free
+------------------------------------------------------------------------------------
+30/10
+memory 17,2 mb
+chainlength: 195399
+
+
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+07-10-2020  06:01               693 baker-credentials.json
+29-10-2020  19:44       126.154.833 blocks_to_import.dat
+28-10-2020  21:29            32.768 data.mdb
+29-10-2020  19:44            63.484 genesis.dat
+28-10-2020  21:57             8.192 lock.mdb
+29-10-2020  19:44               122 node-dashboard-config.json
+               6 File(s)    126.260.092 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+28-10-2020  21:51       213.568.419 blockstate.dat
+               1 File(s)    213.568.419 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+28-10-2020  21:51       300.052.480 data.mdb
+28-10-2020  21:52             8.192 lock.mdb
+               2 File(s)    300.060.672 bytes
+
+     Total Files Listed:
+               9 File(s)    639.889.183 bytes
+               0 Dir(s)  643.579.764.736 bytes free
+			   
+------------------------------------------------------------------------------------
+31/10
+memory: 27,3mb(just after restart)
+chainlength: 199848
+
+
+ Directory of C:\Users\kim\AppData\Local\concordium
+
+07-10-2020  06:01               693 baker-credentials.json
+31-10-2020  22:03       146.464.434 blocks_to_import.dat
+30-10-2020  22:42            32.768 data.mdb
+31-10-2020  22:03            63.484 genesis.dat
+30-10-2020  22:47             8.192 lock.mdb
+31-10-2020  22:03               122 node-dashboard-config.json
+               6 File(s)    146.569.693 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3
+
+30-10-2020  22:47       259.185.413 blockstate.dat
+               1 File(s)    259.185.413 bytes
+
+ Directory of C:\Users\kim\AppData\Local\concordium\database-v3\treestate
+
+30-10-2020  22:47       345.907.200 data.mdb
+30-10-2020  22:47             8.192 lock.mdb
+               2 File(s)    345.915.392 bytes
+
+     Total Files Listed:
+               9 File(s)    751.670.498 bytes
+               0 Dir(s)  640.502.493.184 bytes free
+
+			   
